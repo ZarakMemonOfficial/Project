@@ -1,0 +1,9 @@
+[2025-08-26] Excuted add_item_by_id
+[2025-08-26] Addded item: Laptop x2 - total: 2400.0
+[2025-08-26] Excuted add_item_by_id
+[2025-08-26] Addded item: Mouse x3 - total: 120.0
+[2025-08-26] Excuted add_item_by_id
+[2025-08-26] Addded item: Phone x1 - total: 800.0
+[2025-08-26] Discout set to 10%
+[2025-08-26] Excuted calc_total
+[2025-08-26] Calc total with discunt: 2988.0
